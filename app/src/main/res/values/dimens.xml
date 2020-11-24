@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin_top">125dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_margin_right">75dp</dimen>
+</resources>
